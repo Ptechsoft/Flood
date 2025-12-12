@@ -1,4 +1,6 @@
 
+![flood_Img](https://github.com/user-attachments/assets/d35fae69-fb52-4cc1-89ac-6cfea3f9d76d)
+
 # Flood Probability Prediction Project
 
 ### PROBLLEM STATEMENT
@@ -14,4 +16,8 @@ Random Forest Regressor XGBoost Regressor The models were trained and evaluated 
 Mean Absolute Error (MAE) Root Mean Squared Error (RMSE) R² Score (coefficient of determination) Final Result: The XGBoost model achieved R² ≈ 0.977 and MAE ≈ 0.012, meaning predicted flood probability is on average only ±1.2% off from reality which is accurate enough for real-world early warning systems.
 
 ### Use the link below to make your prediction
+<<<<<<< HEAD
 https://floodpredictionapp.streamlit.app/
+=======
+https://placidus-flood-prediction-model.streamlit.app
+>>>>>>> a02ba1e0e0d04757d7bb65024a7392a1ad6d301a
